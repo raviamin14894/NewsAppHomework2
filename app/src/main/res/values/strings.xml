@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="result_of_news_api">Result Of News Api</string>
+    <string name="read_news_stories">Read News\nStories</string>
+</resources>
